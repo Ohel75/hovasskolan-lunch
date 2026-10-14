@@ -57,7 +57,7 @@ def main():
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Hovasskolan Lunch//SV", "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:Hovåsskolan skollunch", "X-WR-CALDESC:Automatiskt hämtad skolmat från Skolmaten.se", "REFRESH-INTERVAL;VALUE=DURATION:P1D", "X-PUBLISHED-TTL:PT24H"]
     for day, dishes in sorted(entries.items()):
-        title = "Skollunch: " + " / ".join(dishes)
+        title = " / ".join(dishes)
         description = "Hovåsskolan\\n" + "\\n".join(dishes) + "\\nKälla: https://skolmaten.se/hovasskolan"
         lines.extend(["BEGIN:VEVENT", f"UID:hovasskolan-lunch-{day.isoformat()}@ohel75.github.io", f"DTSTAMP:{stamp}", f"DTSTART;VALUE=DATE:{day:%Y%m%d}", f"DTEND;VALUE=DATE:{day + timedelta(days=1):%Y%m%d}", f"SUMMARY:{escape(title)}", f"DESCRIPTION:{escape(description)}", "TRANSP:TRANSPARENT", "END:VEVENT"])
     lines.append("END:VCALENDAR")
