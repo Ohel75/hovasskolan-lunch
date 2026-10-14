@@ -1,6 +1,10 @@
 name: Update school lunch calendar
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update.yml'
   schedule:
     - cron: '17 5,11 * * *'
 permissions:
