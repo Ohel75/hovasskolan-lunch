@@ -9,22 +9,22 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-12@ohel75.github.io
-DTSTAMP:20261014T173402Z
+DTSTAMP:20261015T055754Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:Tomat och basilikasås serveras med rostade frön\, pa
- rmesan och pasta
+SUMMARY:Tomat och basilikasås serveras med rostade frön\, parmesan och 
+ pasta
 DESCRIPTION:Hovåsskolan\\nTomat och basilikasås serveras med rostade fr
  ön\, parmesan och pasta\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-13@ohel75.github.io
-DTSTAMP:20261014T173402Z
+DTSTAMP:20261015T055754Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Miniflipper lax serveras med kokt potatis och kall så
- s\, / Grönsaksbiff serveras med kallsås och kokt potatis
+SUMMARY:Miniflipper lax serveras med kokt potatis och kall sås\, / Grön
+ saksbiff serveras med kallsås och kokt potatis
 DESCRIPTION:Hovåsskolan\\nMiniflipper lax serveras med kokt potatis och 
  kall sås\,\\nGrönsaksbiff serveras med kallsås och kokt potatis\\nKä
  lla: https://skolmaten.se/hovasskolan
@@ -32,18 +32,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-14@ohel75.github.io
-DTSTAMP:20261014T173402Z
+DTSTAMP:20261015T055754Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Gulaschsoppa med växtbaserad färs serveras och mjukt
-  bröd
+SUMMARY:Gulaschsoppa med växtbaserad färs serveras och mjukt bröd
 DESCRIPTION:Hovåsskolan\\nGulaschsoppa med växtbaserad färs serveras o
  ch mjukt bröd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-15@ohel75.github.io
-DTSTAMP:20261014T173402Z
+DTSTAMP:20261015T055754Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Vi firar offentliga måltidens dag\, / Tacobuffè
@@ -53,11 +52,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-16@ohel75.github.io
-DTSTAMP:20261014T173402Z
+DTSTAMP:20261015T055754Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Kycklingpytt med dragoncreme\, / Grönsakspytt med dra
- goncreme
+SUMMARY:Kycklingpytt med dragoncreme\, / Grönsakspytt med dragoncreme
 DESCRIPTION:Hovåsskolan\\nKycklingpytt med dragoncreme\,\\nGrönsakspytt
   med dragoncreme\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
