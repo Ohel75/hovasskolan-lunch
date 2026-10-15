@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-12@ohel75.github.io
-DTSTAMP:20261015T055754Z
+DTSTAMP:20261015T055828Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Tomat och basilikasås serveras med rostade frön\, parmesan och 
@@ -20,7 +20,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-13@ohel75.github.io
-DTSTAMP:20261015T055754Z
+DTSTAMP:20261015T055828Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Miniflipper lax serveras med kokt potatis och kall sås\, / Grön
@@ -32,7 +32,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-14@ohel75.github.io
-DTSTAMP:20261015T055754Z
+DTSTAMP:20261015T055828Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Gulaschsoppa med växtbaserad färs serveras och mjukt bröd
@@ -42,20 +42,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-15@ohel75.github.io
-DTSTAMP:20261015T055754Z
+DTSTAMP:20261015T055828Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Vi firar offentliga måltidens dag\, / Tacobuffè
+SUMMARY:☁️ 14°C Vi firar offentliga måltidens dag\, / Tacobuffè
 DESCRIPTION:Hovåsskolan\\nVi firar offentliga måltidens dag\,\\nTacobuf
  fè\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-16@ohel75.github.io
-DTSTAMP:20261015T055754Z
+DTSTAMP:20261015T055828Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Kycklingpytt med dragoncreme\, / Grönsakspytt med dragoncreme
+SUMMARY:🌦️ 14°C Kycklingpytt med dragoncreme\, / Grönsakspytt med 
+ dragoncreme
 DESCRIPTION:Hovåsskolan\\nKycklingpytt med dragoncreme\,\\nGrönsakspytt
   med dragoncreme\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
