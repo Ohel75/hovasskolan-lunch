@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Create an Outlook-compatible school lunch subscription from Skolmaten RSS."""
+"""Create an Outlook-compatible school lunch subscription from Skolmaten RSS.
+Weather: Askimsbadet forecast, with icon and daily maximum temperature.
+"""
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
