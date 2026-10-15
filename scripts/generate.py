@@ -14,8 +14,8 @@ OUTPUT = Path("docs/skolmat.ics")
 
 WEATHER_URL = (
     "https://api.open-meteo.com/v1/forecast"
-    "?latitude=57.65&longitude=11.94"
-    "&daily=weather_code&timezone=Europe%2FStockholm&forecast_days=16"
+    "?latitude=57.6234&longitude=11.9241"
+    "&daily=weather_code,temperature_2m_max&timezone=Europe%2FStockholm&forecast_days=16"
 )
 
 def weather_icon(code):
@@ -46,8 +46,9 @@ def get_weather():
             data = json.load(response)
         daily = data["daily"]
         return {
-            datetime.strptime(day, "%Y-%m-%d").date(): weather_icon(int(code))
-            for day, code in zip(daily["time"], daily["weather_code"])
+            datetime.strptime(day, "%Y-%m-%d").date(): f"{weather_icon(int(code))} {round(float(temp))}°C"
+            for day, code, temp in zip(daily["time"], daily["weather_code"], daily["temperature_2m_max"])
+            if code is not None and temp is not None
         }
     except Exception as exc:
         print(f"Weather unavailable; publishing meals without weather: {exc}")
