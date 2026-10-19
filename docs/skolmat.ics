@@ -8,56 +8,60 @@ X-WR-CALDESC:Automatiskt hämtad skolmat från Skolmaten.se
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-12@ohel75.github.io
-DTSTAMP:20261018T143628Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Tomat och basilikasås serveras med rostade frön\, parmesan och 
- pasta
-DESCRIPTION:Hovåsskolan\\nTomat och basilikasås serveras med rostade fr
- ön\, parmesan och pasta\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-10-19@ohel75.github.io
+DTSTAMP:20261019T104807Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:☁️ 10°C Mexikansk ärtfärsröra serveras med bulgur
+DESCRIPTION:Hovåsskolan\\nMexikansk ärtfärsröra serveras med bulgur\\
+ nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-13@ohel75.github.io
-DTSTAMP:20261018T143628Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Miniflipper lax serveras med kokt potatis och kall sås\, / Grön
- saksbiff serveras med kallsås och kokt potatis
-DESCRIPTION:Hovåsskolan\\nMiniflipper lax serveras med kokt potatis och 
- kall sås\,\\nGrönsaksbiff serveras med kallsås och kokt potatis\\nKä
- lla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-10-20@ohel75.github.io
+DTSTAMP:20261019T104807Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🌦️ 10°C Västerbottenostgratinerad sejfilè serveras med ko
+ kt potatis och kall sås\, / Grönsaksbiffar serveras med kokt potatis o
+ ch kall sås
+DESCRIPTION:Hovåsskolan\\nVästerbottenostgratinerad sejfilè serveras m
+ ed kokt potatis och kall sås\,\\nGrönsaksbiffar serveras med kokt pota
+ tis och kall sås\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-14@ohel75.github.io
-DTSTAMP:20261018T143628Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Gulaschsoppa med växtbaserad färs serveras och mjukt bröd
-DESCRIPTION:Hovåsskolan\\nGulaschsoppa med växtbaserad färs serveras o
- ch mjukt bröd\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-10-21@ohel75.github.io
+DTSTAMP:20261019T104807Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🌧️ 12°C Grillkorv serveras med potatismos\, / Vegokorv serv
+ eras med potatismos
+DESCRIPTION:Hovåsskolan\\nGrillkorv serveras med potatismos\,\\nVegokorv
+  serveras med potatismos\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-15@ohel75.github.io
-DTSTAMP:20261018T143628Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Vi firar offentliga måltidens dag\, / Tacobuffè
-DESCRIPTION:Hovåsskolan\\nVi firar offentliga måltidens dag\,\\nTacobuf
- fè\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-10-22@ohel75.github.io
+DTSTAMP:20261019T104807Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🌦️ 11°C Krämig tomatsoppa med pasta serveras med mjukt br
+ öd
+DESCRIPTION:Hovåsskolan\\nKrämig tomatsoppa med pasta serveras med mjuk
+ t bröd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-16@ohel75.github.io
-DTSTAMP:20261018T143628Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Kycklingpytt med dragoncreme\, / Grönsakspytt med dragoncreme
-DESCRIPTION:Hovåsskolan\\nKycklingpytt med dragoncreme\,\\nGrönsakspytt
-  med dragoncreme\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-10-23@ohel75.github.io
+DTSTAMP:20261019T104807Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🌦️ 12°C Chicken nuggets serveras med basmatiris och sweetch
+ ilisås\, / Veg.nuggets serveras med basmatiris och sweetchilisås
+DESCRIPTION:Hovåsskolan\\nChicken nuggets serveras med basmatiris och sw
+ eetchilisås\,\\nVeg.nuggets serveras med basmatiris och sweetchilisås\
+ \nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
