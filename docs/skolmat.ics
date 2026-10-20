@@ -9,22 +9,22 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-19@ohel75.github.io
-DTSTAMP:20261019T104807Z
+DTSTAMP:20261020T100606Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:☁️ 10°C Mexikansk ärtfärsröra serveras med bulgur
+SUMMARY:Mexikansk ärtfärsröra serveras med bulgur
 DESCRIPTION:Hovåsskolan\\nMexikansk ärtfärsröra serveras med bulgur\\
  nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-20@ohel75.github.io
-DTSTAMP:20261019T104807Z
+DTSTAMP:20261020T100606Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:🌦️ 10°C Västerbottenostgratinerad sejfilè serveras med ko
- kt potatis och kall sås\, / Grönsaksbiffar serveras med kokt potatis o
- ch kall sås
+SUMMARY:🌧️ 9°C Västerbottenostgratinerad sejfilè serveras med kok
+ t potatis och kall sås\, / Grönsaksbiffar serveras med kokt potatis oc
+ h kall sås
 DESCRIPTION:Hovåsskolan\\nVästerbottenostgratinerad sejfilè serveras m
  ed kokt potatis och kall sås\,\\nGrönsaksbiffar serveras med kokt pota
  tis och kall sås\\nKälla: https://skolmaten.se/hovasskolan
@@ -32,7 +32,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-21@ohel75.github.io
-DTSTAMP:20261019T104807Z
+DTSTAMP:20261020T100606Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🌧️ 12°C Grillkorv serveras med potatismos\, / Vegokorv serv
@@ -43,10 +43,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-22@ohel75.github.io
-DTSTAMP:20261019T104807Z
+DTSTAMP:20261020T100606Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:🌦️ 11°C Krämig tomatsoppa med pasta serveras med mjukt br
+SUMMARY:🌧️ 12°C Krämig tomatsoppa med pasta serveras med mjukt br
  öd
 DESCRIPTION:Hovåsskolan\\nKrämig tomatsoppa med pasta serveras med mjuk
  t bröd\\nKälla: https://skolmaten.se/hovasskolan
@@ -54,14 +54,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-10-23@ohel75.github.io
-DTSTAMP:20261019T104807Z
+DTSTAMP:20261020T100606Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:🌦️ 12°C Chicken nuggets serveras med basmatiris och sweetch
- ilisås\, / Veg.nuggets serveras med basmatiris och sweetchilisås
-DESCRIPTION:Hovåsskolan\\nChicken nuggets serveras med basmatiris och sw
- eetchilisås\,\\nVeg.nuggets serveras med basmatiris och sweetchilisås\
- \nKälla: https://skolmaten.se/hovasskolan
+SUMMARY:🌦️ 12°C Kyckling i sötsursås serveras med basmatiris\, / 
+ Qourn i sötsursås serveras med basmatiris
+DESCRIPTION:Hovåsskolan\\nKyckling i sötsursås serveras med basmatiris
+ \,\\nQourn i sötsursås serveras med basmatiris\\nKälla: https://skolm
+ aten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
