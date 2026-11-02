@@ -8,53 +8,62 @@ X-WR-CALDESC:Automatiskt hämtad skolmat från Skolmaten.se
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-26@ohel75.github.io
-DTSTAMP:20261101T115120Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Stängt
-DESCRIPTION:Hovåsskolan\\nStängt\\nKälla: https://skolmaten.se/hovassk
- olan
+UID:hovasskolan-lunch-2026-11-02@ohel75.github.io
+DTSTAMP:20261102T133158Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🌦️ 11°C Panerad vegobiff serveras med rostad potatis och ka
+ ll örtsås
+DESCRIPTION:Hovåsskolan\\nPanerad vegobiff serveras med rostad potatis o
+ ch kall örtsås\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-27@ohel75.github.io
-DTSTAMP:20261101T115120Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Fritids
-DESCRIPTION:Hovåsskolan\\nFritids\\nKälla: https://skolmaten.se/hovassk
- olan
+UID:hovasskolan-lunch-2026-11-03@ohel75.github.io
+DTSTAMP:20261102T133158Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:☁️ 9°C Stekt sejfilè serveras med remouladsås och kokt pot
+ atis\, / Grönsaksbiffar serveras med remouladsås och kokt potatis
+DESCRIPTION:Hovåsskolan\\nStekt sejfilè serveras med remouladsås och k
+ okt potatis\,\\nGrönsaksbiffar serveras med remouladsås och kokt potat
+ is\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-28@ohel75.github.io
-DTSTAMP:20261101T115120Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Fritids
-DESCRIPTION:Hovåsskolan\\nFritids\\nKälla: https://skolmaten.se/hovassk
- olan
+UID:hovasskolan-lunch-2026-11-04@ohel75.github.io
+DTSTAMP:20261102T133158Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:☁️ 11°C Tomat och basilikasås serveras med rostade frön\, 
+ parmesan och pasta
+DESCRIPTION:Hovåsskolan\\nTomat och basilikasås serveras med rostade fr
+ ön\, parmesan och pasta\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-29@ohel75.github.io
-DTSTAMP:20261101T115120Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Fritids
-DESCRIPTION:Hovåsskolan\\nFritids\\nKälla: https://skolmaten.se/hovassk
- olan
+UID:hovasskolan-lunch-2026-11-05@ohel75.github.io
+DTSTAMP:20261102T133158Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🌫️ 11°C Gulaschsoppa med kycklingfärs serveras med mjukt b
+ röd\, / Gulaschsoppa med ärtfärs serveras med mjukt bröd
+DESCRIPTION:Hovåsskolan\\nGulaschsoppa med kycklingfärs serveras med mj
+ ukt bröd\,\\nGulaschsoppa med ärtfärs serveras med mjukt bröd\\nKäl
+ la: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-10-30@ohel75.github.io
-DTSTAMP:20261101T115120Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Fritids
-DESCRIPTION:Hovåsskolan\\nFritids\\nKälla: https://skolmaten.se/hovassk
- olan
+UID:hovasskolan-lunch-2026-11-06@ohel75.github.io
+DTSTAMP:20261102T133158Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🌫️ 7°C Köttfärslimpa serveras med lingon\, gräddsås och
+  kokt potatis\, / Vegolimpa serveras med lingon\, gräddås och kokt pot
+ atis
+DESCRIPTION:Hovåsskolan\\nKöttfärslimpa serveras med lingon\, grädds
+ ås och kokt potatis\,\\nVegolimpa serveras med lingon\, gräddås och k
+ okt potatis\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
