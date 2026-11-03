@@ -9,21 +9,20 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-02@ohel75.github.io
-DTSTAMP:20261102T133158Z
+DTSTAMP:20261103T124942Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:🌦️ 11°C Panerad vegobiff serveras med rostad potatis och ka
- ll örtsås
+SUMMARY:Panerad vegobiff serveras med rostad potatis och kall örtsås
 DESCRIPTION:Hovåsskolan\\nPanerad vegobiff serveras med rostad potatis o
  ch kall örtsås\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-03@ohel75.github.io
-DTSTAMP:20261102T133158Z
+DTSTAMP:20261103T124942Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:☁️ 9°C Stekt sejfilè serveras med remouladsås och kokt pot
+SUMMARY:☁️ 7°C Stekt sejfilè serveras med remouladsås och kokt pot
  atis\, / Grönsaksbiffar serveras med remouladsås och kokt potatis
 DESCRIPTION:Hovåsskolan\\nStekt sejfilè serveras med remouladsås och k
  okt potatis\,\\nGrönsaksbiffar serveras med remouladsås och kokt potat
@@ -32,7 +31,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-04@ohel75.github.io
-DTSTAMP:20261102T133158Z
+DTSTAMP:20261103T124942Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:☁️ 11°C Tomat och basilikasås serveras med rostade frön\, 
@@ -43,22 +42,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-05@ohel75.github.io
-DTSTAMP:20261102T133158Z
+DTSTAMP:20261103T124942Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:🌫️ 11°C Gulaschsoppa med kycklingfärs serveras med mjukt b
- röd\, / Gulaschsoppa med ärtfärs serveras med mjukt bröd
+SUMMARY:☁️ 8°C Gulaschsoppa med kycklingfärs serveras med mjukt br
+ öd\, / Krämig pumpasoppa
 DESCRIPTION:Hovåsskolan\\nGulaschsoppa med kycklingfärs serveras med mj
- ukt bröd\,\\nGulaschsoppa med ärtfärs serveras med mjukt bröd\\nKäl
- la: https://skolmaten.se/hovasskolan
+ ukt bröd\,\\nKrämig pumpasoppa\\nKälla: https://skolmaten.se/hovassko
+ lan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-06@ohel75.github.io
-DTSTAMP:20261102T133158Z
+DTSTAMP:20261103T124942Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:🌫️ 7°C Köttfärslimpa serveras med lingon\, gräddsås och
+SUMMARY:🌫️ 5°C Köttfärslimpa serveras med lingon\, gräddsås och
   kokt potatis\, / Vegolimpa serveras med lingon\, gräddås och kokt pot
  atis
 DESCRIPTION:Hovåsskolan\\nKöttfärslimpa serveras med lingon\, grädds
