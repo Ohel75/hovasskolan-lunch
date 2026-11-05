@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-02@ohel75.github.io
-DTSTAMP:20261104T130003Z
+DTSTAMP:20261105T131331Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Panerad vegobiff serveras med rostad potatis och kall örtsås
@@ -19,7 +19,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-03@ohel75.github.io
-DTSTAMP:20261104T130003Z
+DTSTAMP:20261105T131331Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Stekt sejfilè serveras med remouladsås och kokt potatis\, / Gr
@@ -31,21 +31,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-04@ohel75.github.io
-DTSTAMP:20261104T130003Z
+DTSTAMP:20261105T131331Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:☁️ 9°C Tomat och basilikasås serveras med rostade frön\, p
- armesan och pasta
+SUMMARY:Tomat och basilikasås serveras med rostade frön\, parmesan och 
+ pasta
 DESCRIPTION:Hovåsskolan\\nTomat och basilikasås serveras med rostade fr
  ön\, parmesan och pasta\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-05@ohel75.github.io
-DTSTAMP:20261104T130003Z
+DTSTAMP:20261105T131331Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:☁️ 7°C Gulaschsoppa med kycklingfärs serveras med mjukt br
+SUMMARY:☁️ 11°C Gulaschsoppa med kycklingfärs serveras med mjukt br
  öd\, / Krämig pumpasoppa
 DESCRIPTION:Hovåsskolan\\nGulaschsoppa med kycklingfärs serveras med mj
  ukt bröd\,\\nKrämig pumpasoppa\\nKälla: https://skolmaten.se/hovassko
@@ -54,10 +54,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-06@ohel75.github.io
-DTSTAMP:20261104T130003Z
+DTSTAMP:20261105T131331Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:☁️ 6°C Köttfärslimpa serveras med lingon\, gräddsås och 
+SUMMARY:☁️ 8°C Köttfärslimpa serveras med lingon\, gräddsås och 
  kokt potatis\, / Vegolimpa serveras med lingon\, gräddås och kokt pota
  tis
 DESCRIPTION:Hovåsskolan\\nKöttfärslimpa serveras med lingon\, grädds
