@@ -8,60 +8,59 @@ X-WR-CALDESC:Automatiskt hämtad skolmat från Skolmaten.se
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-02@ohel75.github.io
-DTSTAMP:20261108T115708Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Panerad vegobiff serveras med rostad potatis och kall örtsås
-DESCRIPTION:Hovåsskolan\\nPanerad vegobiff serveras med rostad potatis o
- ch kall örtsås\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-09@ohel75.github.io
+DTSTAMP:20261109T135558Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🌦️ 6°C Ost och baconsås (kyckling) serveras med spagetti\,
+  / Ost och broccolisås serveras med spagetti
+DESCRIPTION:Hovåsskolan\\nOst och baconsås (kyckling) serveras med spag
+ etti\,\\nOst och broccolisås serveras med spagetti\\nKälla: https://sk
+ olmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-03@ohel75.github.io
-DTSTAMP:20261108T115708Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Stekt sejfilè serveras med remouladsås och kokt potatis\, / Gr
- önsaksbiffar serveras med remouladsås och kokt potatis
-DESCRIPTION:Hovåsskolan\\nStekt sejfilè serveras med remouladsås och k
- okt potatis\,\\nGrönsaksbiffar serveras med remouladsås och kokt potat
- is\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-10@ohel75.github.io
+DTSTAMP:20261109T135558Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🌦️ 8°C Fiskburgare serveras med bröd och potatismos\, / Ve
+ goburgare (ärta) serveras med bröd och potatismos
+DESCRIPTION:Hovåsskolan\\nFiskburgare serveras med bröd och potatismos\
+ ,\\nVegoburgare (ärta) serveras med bröd och potatismos\\nKälla: http
+ s://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-04@ohel75.github.io
-DTSTAMP:20261108T115708Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Tomat och basilikasås serveras med rostade frön\, parmesan och 
- pasta
-DESCRIPTION:Hovåsskolan\\nTomat och basilikasås serveras med rostade fr
- ön\, parmesan och pasta\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-11@ohel75.github.io
+DTSTAMP:20261109T135558Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🌦️ 9°C Grilloststroganoff serveras med ris
+DESCRIPTION:Hovåsskolan\\nGrilloststroganoff serveras med ris\\nKälla: 
+ https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-05@ohel75.github.io
-DTSTAMP:20261108T115708Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Gulaschsoppa med kycklingfärs serveras med mjukt bröd\, / Kräm
- ig pumpasoppa
-DESCRIPTION:Hovåsskolan\\nGulaschsoppa med kycklingfärs serveras med mj
- ukt bröd\,\\nKrämig pumpasoppa\\nKälla: https://skolmaten.se/hovassko
- lan
+UID:hovasskolan-lunch-2026-11-12@ohel75.github.io
+DTSTAMP:20261109T135558Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:❄️ 6°C Minestronesoppa serveras med mjukt bröd
+DESCRIPTION:Hovåsskolan\\nMinestronesoppa serveras med mjukt bröd\\nKä
+ lla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-06@ohel75.github.io
-DTSTAMP:20261108T115708Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Köttfärslimpa serveras med lingon\, gräddsås och kokt potatis
- \, / Vegolimpa serveras med lingon\, gräddås och kokt potatis
-DESCRIPTION:Hovåsskolan\\nKöttfärslimpa serveras med lingon\, grädds
- ås och kokt potatis\,\\nVegolimpa serveras med lingon\, gräddås och k
- okt potatis\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-13@ohel75.github.io
+DTSTAMP:20261109T135558Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:❄️ 3°C Pokè Bowl ( plocka din egen Pokè Bowl med glasnudla
+ r\, basmatiris\, qourn och goa tillbehör )
+DESCRIPTION:Hovåsskolan\\nPokè Bowl ( plocka din egen Pokè Bowl med gl
+ asnudlar\, basmatiris\, qourn och goa tillbehör )\\nKälla: https://sko
+ lmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
