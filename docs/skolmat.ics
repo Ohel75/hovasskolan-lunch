@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-09@ohel75.github.io
-DTSTAMP:20261111T124443Z
+DTSTAMP:20261112T134731Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Ost och baconsås (kyckling) serveras med spagetti\, / Ost och br
@@ -21,7 +21,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-10@ohel75.github.io
-DTSTAMP:20261111T124443Z
+DTSTAMP:20261112T134731Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Fiskburgare serveras med bröd och potatismos\, / Vegoburgare (ä
@@ -33,17 +33,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-11@ohel75.github.io
-DTSTAMP:20261111T124443Z
+DTSTAMP:20261112T134731Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:🌧️ 9°C Grilloststroganoff serveras med ris
+SUMMARY:Grilloststroganoff serveras med ris
 DESCRIPTION:Hovåsskolan\\nGrilloststroganoff serveras med ris\\nKälla: 
  https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-12@ohel75.github.io
-DTSTAMP:20261111T124443Z
+DTSTAMP:20261112T134731Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🌧️ 8°C Minestronesoppa serveras med mjukt bröd
@@ -53,11 +53,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-13@ohel75.github.io
-DTSTAMP:20261111T124443Z
+DTSTAMP:20261112T134731Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:☁️ 6°C Pokè Bowl ( plocka din egen Pokè Bowl med glasnudla
- r\, basmatiris\, qourn och goa tillbehör )
+SUMMARY:🌦️ 6°C Pokè Bowl ( plocka din egen Pokè Bowl med glasnudl
+ ar\, basmatiris\, qourn och goa tillbehör )
 DESCRIPTION:Hovåsskolan\\nPokè Bowl ( plocka din egen Pokè Bowl med gl
  asnudlar\, basmatiris\, qourn och goa tillbehör )\\nKälla: https://sko
  lmaten.se/hovasskolan
