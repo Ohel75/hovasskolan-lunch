@@ -8,59 +8,59 @@ X-WR-CALDESC:Automatiskt hämtad skolmat från Skolmaten.se
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-09@ohel75.github.io
-DTSTAMP:20261115T124559Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Ost och baconsås (kyckling) serveras med spagetti\, / Ost och br
- occolisås serveras med spagetti
-DESCRIPTION:Hovåsskolan\\nOst och baconsås (kyckling) serveras med spag
- etti\,\\nOst och broccolisås serveras med spagetti\\nKälla: https://sk
- olmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-16@ohel75.github.io
+DTSTAMP:20261116T134053Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🌧️ 7°C Veg.Schnitzel (ärt) serveras med basmatiris och kal
+ l sås
+DESCRIPTION:Hovåsskolan\\nVeg.Schnitzel (ärt) serveras med basmatiris o
+ ch kall sås\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-10@ohel75.github.io
-DTSTAMP:20261115T124559Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Fiskburgare serveras med bröd och potatismos\, / Vegoburgare (ä
- rta) serveras med bröd och potatismos
-DESCRIPTION:Hovåsskolan\\nFiskburgare serveras med bröd och potatismos\
- ,\\nVegoburgare (ärta) serveras med bröd och potatismos\\nKälla: http
- s://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-17@ohel75.github.io
+DTSTAMP:20261116T134053Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🌦️ 5°C Sprödbakad sejfilè serveras med potatis och kalls
+ ås\, / Grönsaksbiff serveras med potatis och kallsås
+DESCRIPTION:Hovåsskolan\\nSprödbakad sejfilè serveras med potatis och 
+ kallsås\,\\nGrönsaksbiff serveras med potatis och kallsås\\nKälla: h
+ ttps://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-11@ohel75.github.io
-DTSTAMP:20261115T124559Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Grilloststroganoff serveras med ris
-DESCRIPTION:Hovåsskolan\\nGrilloststroganoff serveras med ris\\nKälla: 
- https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-18@ohel75.github.io
+DTSTAMP:20261116T134053Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🌦️ 3°C Krämig kycklinglasagnette\, / Rotfruktslasagnette
+DESCRIPTION:Hovåsskolan\\nKrämig kycklinglasagnette\,\\nRotfruktslasagn
+ ette\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-12@ohel75.github.io
-DTSTAMP:20261115T124559Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Minestronesoppa serveras med mjukt bröd
-DESCRIPTION:Hovåsskolan\\nMinestronesoppa serveras med mjukt bröd\\nKä
- lla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-19@ohel75.github.io
+DTSTAMP:20261116T134053Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:☁️ -1°C Potatis och purjolöksoppa serveras med mjukt bröd
+DESCRIPTION:Hovåsskolan\\nPotatis och purjolöksoppa serveras med mjukt 
+ bröd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-13@ohel75.github.io
-DTSTAMP:20261115T124559Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Pokè Bowl ( plocka din egen Pokè Bowl med glasnudlar\, basmatir
- is\, qourn och goa tillbehör )
-DESCRIPTION:Hovåsskolan\\nPokè Bowl ( plocka din egen Pokè Bowl med gl
- asnudlar\, basmatiris\, qourn och goa tillbehör )\\nKälla: https://sko
- lmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-20@ohel75.github.io
+DTSTAMP:20261116T134053Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🌤️ 4°C Kebabkryddad kyckling serveras med tortillabröd och
+  vitlöksås\, / Kebabkryddade sojastrimlor serveras med tortilliabröd 
+ och vitlöksås
+DESCRIPTION:Hovåsskolan\\nKebabkryddad kyckling serveras med tortillabr
+ öd och vitlöksås\,\\nKebabkryddade sojastrimlor serveras med tortilli
+ abröd och vitlöksås\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
