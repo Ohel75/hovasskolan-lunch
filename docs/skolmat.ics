@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-16@ohel75.github.io
-DTSTAMP:20261117T142710Z
+DTSTAMP:20261118T140145Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Veg.Schnitzel (ärt) serveras med basmatiris och kall sås
@@ -19,11 +19,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-17@ohel75.github.io
-DTSTAMP:20261117T142710Z
+DTSTAMP:20261118T140145Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:🌦️ 5°C Sprödbakad sejfilè serveras med potatis och kalls
- ås\, / Grönsaksbiff serveras med potatis och kallsås
+SUMMARY:Sprödbakad sejfilè serveras med potatis och kallsås\, / Gröns
+ aksbiff serveras med potatis och kallsås
 DESCRIPTION:Hovåsskolan\\nSprödbakad sejfilè serveras med potatis och 
  kallsås\,\\nGrönsaksbiff serveras med potatis och kallsås\\nKälla: h
  ttps://skolmaten.se/hovasskolan
@@ -31,32 +31,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-18@ohel75.github.io
-DTSTAMP:20261117T142710Z
+DTSTAMP:20261118T140145Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:🌦️ 3°C Krämig kycklinglasagnette\, / Rotfruktslasagnette
+SUMMARY:Krämig kycklinglasagnette\, / Rotfruktslasagnette
 DESCRIPTION:Hovåsskolan\\nKrämig kycklinglasagnette\,\\nRotfruktslasagn
  ette\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-19@ohel75.github.io
-DTSTAMP:20261117T142710Z
+DTSTAMP:20261118T140145Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:☁️ 3°C Potatis och purjolöksoppa serveras med mjukt bröd
+SUMMARY:Potatis och purjolöksoppa serveras med mjukt bröd
 DESCRIPTION:Hovåsskolan\\nPotatis och purjolöksoppa serveras med mjukt 
  bröd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-20@ohel75.github.io
-DTSTAMP:20261117T142710Z
+DTSTAMP:20261118T140145Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:🌤️ 5°C Kebabkryddad kyckling serveras med tortillabröd och
-  vitlöksås\, / Kebabkryddade sojastrimlor serveras med tortilliabröd 
- och vitlöksås
+SUMMARY:Kebabkryddad kyckling serveras med tortillabröd och vitlöksås\
+ , / Kebabkryddade sojastrimlor serveras med tortilliabröd och vitlöks
+ ås
 DESCRIPTION:Hovåsskolan\\nKebabkryddad kyckling serveras med tortillabr
  öd och vitlöksås\,\\nKebabkryddade sojastrimlor serveras med tortilli
  abröd och vitlöksås\\nKälla: https://skolmaten.se/hovasskolan
