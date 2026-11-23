@@ -8,58 +8,58 @@ X-WR-CALDESC:Automatiskt hämtad skolmat från Skolmaten.se
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-16@ohel75.github.io
-DTSTAMP:20261122T132258Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Veg.Schnitzel (ärt) serveras med basmatiris och kall sås
-DESCRIPTION:Hovåsskolan\\nVeg.Schnitzel (ärt) serveras med basmatiris o
- ch kall sås\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-23@ohel75.github.io
+DTSTAMP:20261123T155955Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:☁️ 2°C Korvstroganoff serveras med ris\, / Grilloststroganof
+ f serveras med ris
+DESCRIPTION:Hovåsskolan\\nKorvstroganoff serveras med ris\,\\nGrillostst
+ roganoff serveras med ris\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-17@ohel75.github.io
-DTSTAMP:20261122T132258Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Sprödbakad sejfilè serveras med potatis och kallsås\, / Gröns
- aksbiff serveras med potatis och kallsås
-DESCRIPTION:Hovåsskolan\\nSprödbakad sejfilè serveras med potatis och 
- kallsås\,\\nGrönsaksbiff serveras med potatis och kallsås\\nKälla: h
- ttps://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-24@ohel75.github.io
+DTSTAMP:20261123T155955Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:☁️ 0°C Ugnstekt laxsida serveras med citronmajonäs och pota
+ tis\, / Grönsaksbiff serveras med citronmajnonäs och potatis
+DESCRIPTION:Hovåsskolan\\nUgnstekt laxsida serveras med citronmajonäs o
+ ch potatis\,\\nGrönsaksbiff serveras med citronmajnonäs och potatis\\n
+ Källa: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-18@ohel75.github.io
-DTSTAMP:20261122T132258Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Krämig kycklinglasagnette\, / Rotfruktslasagnette
-DESCRIPTION:Hovåsskolan\\nKrämig kycklinglasagnette\,\\nRotfruktslasagn
- ette\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-25@ohel75.github.io
+DTSTAMP:20261123T155955Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🌤️ 1°C Mac and cheese
+DESCRIPTION:Hovåsskolan\\nMac and cheese\\nKälla: https://skolmaten.se/
+ hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-19@ohel75.github.io
-DTSTAMP:20261122T132258Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Potatis och purjolöksoppa serveras med mjukt bröd
-DESCRIPTION:Hovåsskolan\\nPotatis och purjolöksoppa serveras med mjukt 
- bröd\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-26@ohel75.github.io
+DTSTAMP:20261123T155955Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:☁️ 1°C Cowboysoppa (ärtfärs) serveras med mjukt bröd
+DESCRIPTION:Hovåsskolan\\nCowboysoppa (ärtfärs) serveras med mjukt br
+ öd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hovasskolan-lunch-2026-11-20@ohel75.github.io
-DTSTAMP:20261122T132258Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Kebabkryddad kyckling serveras med tortillabröd och vitlöksås\
- , / Kebabkryddade sojastrimlor serveras med tortilliabröd och vitlöks
- ås
-DESCRIPTION:Hovåsskolan\\nKebabkryddad kyckling serveras med tortillabr
- öd och vitlöksås\,\\nKebabkryddade sojastrimlor serveras med tortilli
- abröd och vitlöksås\\nKälla: https://skolmaten.se/hovasskolan
+UID:hovasskolan-lunch-2026-11-27@ohel75.github.io
+DTSTAMP:20261123T155955Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:☁️ -1°C Kycklingköttbullar med tomatsås serveras med pasta
+ \, / Vegobullar med tomatsås serveras med pasta
+DESCRIPTION:Hovåsskolan\\nKycklingköttbullar med tomatsås serveras med
+  pasta\,\\nVegobullar med tomatsås serveras med pasta\\nKälla: https:/
+ /skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
