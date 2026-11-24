@@ -9,22 +9,22 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-23@ohel75.github.io
-DTSTAMP:20261123T155955Z
+DTSTAMP:20261124T155433Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:☁️ 2°C Korvstroganoff serveras med ris\, / Grilloststroganof
- f serveras med ris
+SUMMARY:Korvstroganoff serveras med ris\, / Grilloststroganoff serveras m
+ ed ris
 DESCRIPTION:Hovåsskolan\\nKorvstroganoff serveras med ris\,\\nGrillostst
  roganoff serveras med ris\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-24@ohel75.github.io
-DTSTAMP:20261123T155955Z
+DTSTAMP:20261124T155433Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:☁️ 0°C Ugnstekt laxsida serveras med citronmajonäs och pota
- tis\, / Grönsaksbiff serveras med citronmajnonäs och potatis
+SUMMARY:☁️ -1°C Ugnstekt laxsida serveras med citronmajonäs och pot
+ atis\, / Grönsaksbiff serveras med citronmajnonäs och potatis
 DESCRIPTION:Hovåsskolan\\nUgnstekt laxsida serveras med citronmajonäs o
  ch potatis\,\\nGrönsaksbiff serveras med citronmajnonäs och potatis\\n
  Källa: https://skolmaten.se/hovasskolan
@@ -32,7 +32,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-25@ohel75.github.io
-DTSTAMP:20261123T155955Z
+DTSTAMP:20261124T155433Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🌤️ 1°C Mac and cheese
@@ -42,20 +42,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-26@ohel75.github.io
-DTSTAMP:20261123T155955Z
+DTSTAMP:20261124T155433Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:☁️ 1°C Cowboysoppa (ärtfärs) serveras med mjukt bröd
+SUMMARY:🌤️ 1°C Cowboysoppa (ärtfärs) serveras med mjukt bröd
 DESCRIPTION:Hovåsskolan\\nCowboysoppa (ärtfärs) serveras med mjukt br
  öd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-27@ohel75.github.io
-DTSTAMP:20261123T155955Z
+DTSTAMP:20261124T155433Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:☁️ -1°C Kycklingköttbullar med tomatsås serveras med pasta
+SUMMARY:🌫️ 0°C Kycklingköttbullar med tomatsås serveras med pasta
  \, / Vegobullar med tomatsås serveras med pasta
 DESCRIPTION:Hovåsskolan\\nKycklingköttbullar med tomatsås serveras med
   pasta\,\\nVegobullar med tomatsås serveras med pasta\\nKälla: https:/
