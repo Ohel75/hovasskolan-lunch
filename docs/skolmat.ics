@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-23@ohel75.github.io
-DTSTAMP:20261125T153805Z
+DTSTAMP:20261126T151945Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Korvstroganoff serveras med ris\, / Grilloststroganoff serveras m
@@ -20,7 +20,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-24@ohel75.github.io
-DTSTAMP:20261125T153805Z
+DTSTAMP:20261126T151945Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Ugnstekt laxsida serveras med citronmajonäs och potatis\, / Grö
@@ -32,30 +32,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-25@ohel75.github.io
-DTSTAMP:20261125T153805Z
+DTSTAMP:20261126T151945Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:🌤️ 0°C Mac and cheese
+SUMMARY:Mac and cheese
 DESCRIPTION:Hovåsskolan\\nMac and cheese\\nKälla: https://skolmaten.se/
  hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-26@ohel75.github.io
-DTSTAMP:20261125T153805Z
+DTSTAMP:20261126T151945Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:☁️ 0°C Cowboysoppa (ärtfärs) serveras med mjukt bröd
+SUMMARY:☁️ -1°C Cowboysoppa (ärtfärs) serveras med mjukt bröd
 DESCRIPTION:Hovåsskolan\\nCowboysoppa (ärtfärs) serveras med mjukt br
  öd\\nKälla: https://skolmaten.se/hovasskolan
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hovasskolan-lunch-2026-11-27@ohel75.github.io
-DTSTAMP:20261125T153805Z
+DTSTAMP:20261126T151945Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:☁️ 2°C Kycklingköttbullar med tomatsås serveras med pasta\
+SUMMARY:☁️ 1°C Kycklingköttbullar med tomatsås serveras med pasta\
  , / Vegobullar med tomatsås serveras med pasta
 DESCRIPTION:Hovåsskolan\\nKycklingköttbullar med tomatsås serveras med
   pasta\,\\nVegobullar med tomatsås serveras med pasta\\nKälla: https:/
